@@ -12,22 +12,17 @@
 
 ## Навыки и технологии
 
-<div style="background-color: #dcdcdc; padding: 10px; border-radius: 5px;">
+ ''Jira'', ''qase.io'', ''SQL'',''Postman''
+ Fiddler, Charles
+  Swagger
+  Trello
+ SoapUI
+  Android Studio
+ Python, Selenium
+ Git, CLI
+ Chrome DevTools
   
-- Jira
-- qase.io
-- SQL
-- Postman
-- Fiddler, Charles
-- Swagger
-- Trello
-- SoapUI
-- Android Studio
-- Python, Selenium
-- Git, CLI
-- Chrome DevTools
-  
-</div>
+
 
 
 ## Опыт работы
