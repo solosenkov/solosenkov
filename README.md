@@ -12,7 +12,7 @@
 
 ## Навыки и технологии
 
- ''Jira'', ''qase.io'', ''SQL'',''Postman''
+ "Jira", "qase.io", "SQL","Postman"
  Fiddler, Charles
   Swagger
   Trello
