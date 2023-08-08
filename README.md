@@ -12,8 +12,7 @@
 
 ## Навыки и технологии
 
- "Jira", "qase.io", "SQL","Postman"
- Fiddler, Charles
+ Jira, qase.io, SQL,Postman, Fiddler, ׳׳Charles׳׳
   Swagger
   Trello
  SoapUI
