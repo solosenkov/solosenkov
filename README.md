@@ -53,16 +53,8 @@
 - Проверка функциональности редактирования личных событий
 - Проверка функциональности совмещения личного события и урока
   
-- **Технологии**: Jira, Confluence, Postman, Qase.io...
+  **Технологии**: Jira, Confluence, Postman, Qase.io...
 
-
-
-## Контактная информация
-
--  solosenkov@gmail.com
--  [Я на LinkedIn](https://www.linkedin.com/in/eugene-solosenkov/)
--  [Мой личный сайт ](https://solosenkov.site/)
--  [Нажми чтобы написать мне в Телеграмм](https://t.me/solosenkoff)
 
 ## Еще проекты:
 <div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
@@ -75,10 +67,14 @@
   https://github.com/solosenkov/tg_bot_fish
   - Скоро здесь появится бот (пока еше на отладке) для решения задачек по SQL в котором уже добавлена БД для решения всех домашек из основной части. Потестить можно найдя его в телеграмме: @homeWorksSqlBot
 
-
 </div>
 
+## Контактная информация
 
+-  solosenkov@gmail.com
+-  [Я на LinkedIn](https://www.linkedin.com/in/eugene-solosenkov/)
+-  [Мой личный сайт ](https://solosenkov.site/)
+-  [Нажми чтобы написать мне в Телеграмм](https://t.me/solosenkoff)
 
 
 
