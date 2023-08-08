@@ -12,14 +12,14 @@
 
 ## Навыки и технологии
 
- ``Jira`` ``qase.io``SQL`` ``Postman`` Fiddler`` ``Charles``
+ ``Jira`` ``qase.io`` ``SQL`` ``Postman`` Fiddler`` ``Charles``
   ``Swagger``
-  Trello
- SoapUI
-  Android Studio
- Python, Selenium
- Git, CLI
- Chrome DevTools
+  ``Trello``
+ ``SoapUI``
+  ``Android Studio``
+ ``Python`` ``Selenium``
+ ``Git`` ``CLI``
+ ``Chrome DevTools``
   
 
 
