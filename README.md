@@ -62,7 +62,7 @@
   - Бот-валидатор json: https://github.com/solosenkov/tg_bot_jsonvalidator
   - Бот генератор рыбы-текста (очень классный - генерирует по заданному количеству букв):
   https://github.com/solosenkov/tg_bot_fish
-  - Бот (пока еще на отладке) для решения задачек по SQL: https://github.com/solosenkov/SQL_BOT
+  - Бот  для решения задачек по SQL: https://github.com/solosenkov/SQL_BOT
 
 </div>
 
