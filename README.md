@@ -77,7 +77,7 @@ Inside my repositories, you'll find a valuable collection of QA tools, automatio
 - 📧 Email: [solosenkov@gmail.com](mailto:solosenkov@gmail.com)
 - 💼 LinkedIn: [Eugene Solosenkov](https://www.linkedin.com/in/eugene-solosenkov/)
 - 💬 Telegram: [@solosenkoff](https://t.me/solosenkoff)
-- 🌐 Website: [solosenkov.site](https://solosenkov.site/)
+- 🌐 Website: [solosenkov.site](https://solosenkov.github.io/)
 
 ---
 
