@@ -1,6 +1,6 @@
-# Hi there, I'm Evgenii 👋
+# Hi there, I'm Evgenii 
 
-## 🔍 QA Engineer | Test Automation Enthusiast | Quality Advocate
+## QA Engineer | Test Automation Enthusiast | Quality Advocate
 
 Welcome to my GitHub! I'm a passionate QA professional dedicated to ensuring software quality through comprehensive testing strategies, automation, and continuous improvement.
 
@@ -8,7 +8,7 @@ Inside my repositories, you'll find a valuable collection of QA tools, automatio
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ### Testing & QA
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
