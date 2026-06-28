@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey,+I'm+Eugene+%F0%9F%91%8B;Full-Stack+Developer;AI+%2F+LLM+Engineer;SaaS+Builder;Indie+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey,+I'm+Eugene;Full-Stack+Developer;AI+%2F+LLM+Engineer;SaaS+Builder;Indie+Maker" alt="Typing SVG" />
 </a>
 
 <!-- GitHub badges -->
@@ -34,7 +34,7 @@
 
 ---
 
-### 🤖 AI & LLM Engineering
+### AI & LLM Engineering
 
 ```text
 RAG Systems              ████████████████████  100%
@@ -45,7 +45,7 @@ AI Content Pipelines     ████████████████░░�
 ```
 
 <details>
-<summary><b>📖 What this means in practice</b></summary>
+<summary><b>What this means in practice</b></summary>
 
 - Retrieval-Augmented Generation (RAG) — domain-specific assistants, knowledge bases
 - Agentic AI — multi-step orchestration of tools, APIs, and LLM reasoning
@@ -57,7 +57,7 @@ AI Content Pipelines     ████████████████░░�
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -85,17 +85,17 @@ AI Content Pipelines     ████████████████░░�
 
 ---
 
-### ⚡ Currently Exploring
+### Currently Exploring
 
 <div align="center">
 
-🔄 Agentic AI Systems &nbsp;·&nbsp; 🏗️ LLM on Edge Hardware &nbsp;·&nbsp; 🚀 Productized AI Tools &nbsp;·&nbsp; ☁️ Serverless AI Backends
+Agentic AI Systems &nbsp;·&nbsp; LLM on Edge Hardware &nbsp;·&nbsp; Productized AI Tools &nbsp;·&nbsp; Serverless AI Backends
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img width="390" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solosenkov&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950" />
@@ -109,7 +109,7 @@ AI Content Pipelines     ████████████████░░�
 </div>
 
 <div align="center">
-  <em>“The best way to predict the future is to ship it.”</em>
+  <em>"The best way to predict the future is to ship it."</em>
   <br/><br/>
-  <sub>Built with ❤️ and too much ☕</sub>
+  <sub>Built with AI and too much ☕</sub>
 </div>
