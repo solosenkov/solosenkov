@@ -67,7 +67,7 @@ _____  _____   ____  __  __     __      _________ ____  __  __       _______
 ## Контакты
 
 - Telegram: [@solosenkoff](https://t.me/solosenkoff)
-- Email: nuzhe@yandex.ru
+- Email: solosenkov@gmail.com
 - Сайт: [toliktours.ru](https://toliktours.ru) · [riki-tiki.org](https://riki-tiki.org)
 
 ---
