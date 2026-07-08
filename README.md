@@ -17,7 +17,7 @@
 
 7+ years of breaking software so users don't have to. I lead QA across multiple products, build quality processes from scratch, and ship things that actually work — from test strategies to full-stack platforms.
 
-Currently **Head of QA** at SA digital, running quality across multiple projects. Also the founder of **RikiTiki** — a family services marketplace in Nha Trang, Vietnam.
+Currently **Head of QA**, running quality across multiple projects. Also the founder of **RikiTiki** — a family services marketplace in Nha Trang, Vietnam.
 
 ## What I Do
 
