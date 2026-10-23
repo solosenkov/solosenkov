@@ -1,73 +1,71 @@
-<div align="center">
+![Evgenii Solosenkov, QA Lead and Product Builder](assets/banner.svg)
 
-# Evgenii Solosenkov
+**English** / [Русский](README.ru.md)
 
-**Full-Stack QA Engineer · QA Lead · Product Builder**
+[Portfolio](https://solosenkov.github.io/?lang=en) · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Email](mailto:solosenkov@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eugene-solosenkov)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/solosenkov)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:solosenkov@gmail.com)
-[![RikiTiki](https://img.shields.io/badge/RikiTiki-11a39a?style=flat&logoColor=white)](https://riki-tiki.org)
+## Quality in mind. Builder at heart.
 
-</div>
+I'm Evgenii, a **QA lead and product builder** based in Nha Trang, Vietnam. 7+ years across web, mobile and APIs. I lead QA across multiple products, build teams and processes from scratch, and stay close to the code.
 
----
+I also build the tools I want to use: browser extensions, testing utilities and full-stack products. Quality is part of making them, from the first idea to the release.
 
-## About
+## Things I've built
 
-7+ years of breaking software so users don't have to. I lead QA across multiple products, build quality processes from scratch, and ship things that actually work — from test strategies to full-stack platforms.
+### [QArtel](https://qartel.net) / QA. Without the noise.
 
-Currently **Head of QA**, running quality across multiple projects. Also the founder of **RikiTiki** — a family services marketplace in Nha Trang, Vietnam.
+A platform for the QA community: news digests in Russian, a knowledge base, job listings and hands-on SQL/API practice. I build the product and the tools behind it.
 
-## What I Do
+[![QArtel: QA news, knowledge and jobs](assets/qartel.jpg)](https://qartel.net)
 
-| Area | What it means |
-|------|---------------|
-| **QA Leadership** | Building teams, test strategies, release gates, quality culture |
-| **Exploratory Testing** | Deep sessions, risk-based approaches, edge-case hunting |
-| **API Testing** | Postman, Newman, contract testing, schema validation |
-| **AI-Native QA** | LLM-powered test gen, agentic workflows, prompt engineering |
-| **Product Building** | Full-stack development, marketplace logic, multilingual products |
+[Explore QArtel](https://qartel.net) · [Practice SQL & API](https://qartel.net/practice)
 
-## Tech & Tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+### [Easy Sniff](https://github.com/solosenkov/easy-sniff-extension)
+**Browser QA workspace**
 
-## AI & Quality Engineering
+Capture HTTP and WebSocket traffic, mock responses, and record bugs with video and a synchronized technical timeline. Share an offline report a developer can explore.
 
-I use LLMs and agentic workflows to supercharge QA. Day-to-day tooling built around AI for:
+[![Easy Sniff network capture](assets/easy-sniff.jpg)](https://github.com/solosenkov/easy-sniff-extension)
 
-- **Test generation** — rapid test design, edge-case discovery, test data creation
-- **Regression automation** — AI-driven suites that auto-adapt to code changes
-- **LLM evaluation** — output quality scoring, prompt-injection resilience
-- **Testing agents** — autonomous exploration, API contract generation, structured bug reports
+[Source & docs](https://github.com/solosenkov/easy-sniff-extension) · [Latest release](https://github.com/solosenkov/easy-sniff-extension/releases/latest)
 
-## Projects
+</td>
+<td width="50%" valign="top">
 
-### [RikiTiki](https://riki-tiki.org) — Family Services Marketplace
-Founder & sole developer. A multilingual platform helping families in Nha Trang discover children's services. Product strategy, marketplace logic, full-stack dev — from idea to launch.
+### [KarmDown](https://github.com/solosenkov/karmdown)
+**A local home for Markdown**
 
-### [solosenkov.github.io](https://solosenkov.github.io) — Personal Site
-CV-style landing page. Because if you're in QA, your own site should be bug-free.
+Read, edit and search Markdown in Chrome. Live preview, Mermaid diagrams, KaTeX math and HTML/PDF export. No account or document uploads.
 
-## Stats
+[![KarmDown dark split editor](assets/karmdown.jpg)](https://github.com/solosenkov/karmdown)
 
-<div align="center">
+[Source & docs](https://github.com/solosenkov/karmdown) · [Latest release](https://github.com/solosenkov/karmdown/releases/latest)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=solosenkov&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e13&title_color=11a39a&icon_color=11a39a&text_color=e8edf2&ring_color=11a39a)
+</td>
+</tr>
+</table>
 
-</div>
+**[RikiTiki](https://riki-tiki.org)** / Founder & developer. A multilingual directory helping families in Nha Trang find children's and family services. Product strategy, marketplace logic and full-stack development, from idea to launch.
 
----
+[More experiments and utilities →](https://github.com/solosenkov?tab=repositories)
 
-<div align="center">
-<i>Nha Trang, Vietnam · solosenkov@gmail.com</i>
-</div>
+## How I work
+
+| Focus | What I bring |
+| :--- | :--- |
+| **QA leadership** | Teams, risk-based strategies, release readiness and clear ownership |
+| **Hands-on testing** | Exploratory sessions, API contracts, integration checks and reproducible bug reports |
+| **AI & agents** | Test design, investigation, output evaluation and reusable workflows with human review |
+| **Product building** | Full-stack development, multilingual interfaces and practical tools for real problems |
+
+**My toolbox:** TypeScript / JavaScript / Python / SQL / Postman / Git / CI/CD / Next.js / Supabase
+
+## Let's build something that works.
+
+Need a QA lead, a fresh pair of eyes or a builder who thinks about quality from day one?
+
+**[solosenkov@gmail.com](mailto:solosenkov@gmail.com)** · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Portfolio](https://solosenkov.github.io/?lang=en)
