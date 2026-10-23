@@ -2,11 +2,11 @@
 
 **English** / [Русский](README.ru.md)
 
-[Portfolio](https://solosenkov.github.io/?lang=en) · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Email](mailto:solosenkov@gmail.com)
+[Portfolio](https://solosenkov.github.io/?lang=en) · [Telegram](https://t.me/solosenkoff) · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Email](mailto:solosenkov@gmail.com)
 
 ## Quality in mind. Builder at heart.
 
-I'm Evgenii, a **QA lead and product builder** based in Nha Trang, Vietnam. 7+ years across web, mobile and APIs. I lead QA across multiple products, build teams and processes from scratch, and stay close to the code.
+I'm Evgenii, a **QA lead and product builder**. 7+ years across web, mobile and APIs. I lead QA across multiple products, build teams and processes from scratch, and stay close to the code.
 
 I also build the tools I want to use: browser extensions, testing utilities and full-stack products. Quality is part of making them, from the first idea to the release.
 
@@ -49,7 +49,7 @@ Read, edit and search Markdown in Chrome. Live preview, Mermaid diagrams, KaTeX 
 </tr>
 </table>
 
-**[RikiTiki](https://riki-tiki.org)** / Founder & developer. A multilingual directory helping families in Nha Trang find children's and family services. Product strategy, marketplace logic and full-stack development, from idea to launch.
+**[RikiTiki](https://riki-tiki.org)** / Founder & developer. A multilingual directory helping families find children's and family services. Product strategy, marketplace logic and full-stack development, from idea to launch.
 
 [More experiments and utilities →](https://github.com/solosenkov?tab=repositories)
 
@@ -68,4 +68,4 @@ Read, edit and search Markdown in Chrome. Live preview, Mermaid diagrams, KaTeX 
 
 Need a QA lead, a fresh pair of eyes or a builder who thinks about quality from day one?
 
-**[solosenkov@gmail.com](mailto:solosenkov@gmail.com)** · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Portfolio](https://solosenkov.github.io/?lang=en)
+**[solosenkov@gmail.com](mailto:solosenkov@gmail.com)** · [Telegram](https://t.me/solosenkoff) · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Portfolio](https://solosenkov.github.io/?lang=en)

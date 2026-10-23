@@ -2,11 +2,11 @@
 
 [English](README.md) / **Русский**
 
-[Портфолио](https://solosenkov.github.io/?lang=ru) · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Почта](mailto:solosenkov@gmail.com)
+[Портфолио](https://solosenkov.github.io/?lang=ru) · [Telegram](https://t.me/solosenkoff) · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Почта](mailto:solosenkov@gmail.com)
 
 ## Думаю о качестве. Люблю создавать.
 
-Я Евгений, **QA-лид и создатель продуктов**. Живу в Нячанге, Вьетнам. 7+ лет работаю с вебом, мобильными приложениями и API. Управляю качеством нескольких продуктов, собираю команды и процессы с нуля и сам работаю с кодом.
+Я Евгений, **QA-лид и создатель продуктов**. 7+ лет работаю с вебом, мобильными приложениями и API. Управляю качеством нескольких продуктов, собираю команды и процессы с нуля и сам работаю с кодом.
 
 А ещё создаю инструменты, которыми хочется пользоваться: браузерные расширения, утилиты для тестирования и полноценные продукты. Думаю о качестве на всём пути от идеи до релиза.
 
@@ -49,7 +49,7 @@
 </tr>
 </table>
 
-**[RikiTiki](https://riki-tiki.org)** / Основатель и разработчик. Многоязычный каталог детских и семейных услуг в Нячанге. Продуктовая стратегия, логика площадки и full-stack разработка, от идеи до запуска.
+**[RikiTiki](https://riki-tiki.org)** / Основатель и разработчик. Многоязычный каталог детских и семейных услуг. Продуктовая стратегия, логика площадки и full-stack разработка, от идеи до запуска.
 
 [Другие эксперименты и утилиты →](https://github.com/solosenkov?tab=repositories)
 
@@ -68,4 +68,4 @@
 
 Нужен QA-лид, свежий взгляд на продукт или разработчик, который думает о качестве с первого дня?
 
-**[solosenkov@gmail.com](mailto:solosenkov@gmail.com)** · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Портфолио](https://solosenkov.github.io/?lang=ru)
+**[solosenkov@gmail.com](mailto:solosenkov@gmail.com)** · [Telegram](https://t.me/solosenkoff) · [LinkedIn](https://linkedin.com/in/eugene-solosenkov) · [Портфолио](https://solosenkov.github.io/?lang=ru)
